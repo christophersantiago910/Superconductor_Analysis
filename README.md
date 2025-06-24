@@ -1,6 +1,6 @@
 # Superconductor Critical Temperature Prediction
 
-## Table of Contents- [Project Overview](#project-overview)- [Motivation](#motivation)- [Data Source](#data-source)- [Objectives](#objectives)- [Methods](#methods)- [Results](#results)- [Repository Structure](#repository-structure)- [References](#references)
+## Table of Contents - [Project Overview](#project-overview) - [Motivation](#motivation) - [Data Source](#data-source) - [Objectives](#objectives) - [Methods](#methods) - [Results](#results) - [Repository Structure](#repository-structure) - [References](#references)
 ---
 ## Project Overview
 This project leverages machine learning models to predict the **critical temperature (TC)** of superconductors and to classify materials as **high-TC or low-TC**. The models used include **Ridge Regression**, **Lasso Regression**, **XGBoost**, and **Support Vector Machines (SVMs)**.
