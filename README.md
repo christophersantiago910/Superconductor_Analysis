@@ -66,7 +66,6 @@ Superconductor_Analysis/
 │   └── Presentation.pptx
 ├── scripts/
 │   └── final_project.ipynb
-├── images/
 └── README.md
 ```
 
